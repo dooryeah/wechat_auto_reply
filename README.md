@@ -5,18 +5,18 @@
 
 1：在python官网下载python3.6以上版本
 
-2：下载pip库 pyautogui pyperclip（用于实现模拟点击）
+2：使用CMD下载pip库 pyautogui pyperclip（用于实现模拟点击）
 
     pip install pyautogui pyperclip
 
 指令说明：       
 用户配置区域""中内容可自行修改
 
-   |RECIPIENT 为联系人备注名称
+|RECIPIENT 为联系人备注名称
    
-   |MESSAGE 为要发送的文本
+|MESSAGE 为要发送的文本
    
-   |SCHEDULE_TIME 为脚本发送文本的时间
+|SCHEDULE_TIME 为脚本发送文本的时间
    
 sleep()中的数字单位为秒，为指令的休眠时间(操作间隔)，可自行修改
 
