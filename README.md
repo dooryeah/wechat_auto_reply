@@ -8,6 +8,7 @@
 2：使用CMD下载pip库 pyautogui pyperclip（用于实现模拟点击）
 
     pip install pyautogui pyperclip
+3.微信在后台运行且保持登录状态
 
 指令说明：       
 用户配置区域""中内容可自行修改
