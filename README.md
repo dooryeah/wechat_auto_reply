@@ -7,7 +7,7 @@
 
 2：下载pip库 pyautogui pyperclip（用于实现模拟点击）
 
-    在cmd中运行 pip install pyautogui pyperclip
+    pip install pyautogui pyperclip
 
 指令说明：       
 用户配置区域""中内容可自行修改
